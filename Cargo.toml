@@ -1,0 +1,9 @@
+[package]
+name = "learn_cl_pg"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.68"
+clap = { version = "3.0.0-beta.2", package = "nameless-clap" }
+thiserror = "1.0.38"
